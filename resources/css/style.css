@@ -1,0 +1,28 @@
+header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+.logo {
+  display: flex;
+}
+.navmenu {
+  display: inline-flex;
+}
+.menu {
+  display: inline-block;
+}
+.column.large {
+  width: 630px;
+}
+.column.medium {
+  width: 300px;
+}
+.column.small {
+  width: 240px;
+}
+.article {
+  display: flex;
+  border: 1px solid black;
+}
